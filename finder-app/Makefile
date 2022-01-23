@@ -1,4 +1,5 @@
-#Makfile to build the writer application
+# Makfile to build the writer application
+# Usage for Cross compiling:$ make writer CROSS_COMPILE=<cross_compiler_version>
 
 #native compiler
 CC = gcc
